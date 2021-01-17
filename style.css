@@ -1,0 +1,16 @@
+/* Slider */
+
+#slide .container-fluid2 {
+    padding: auto;
+}
+
+#carouselExampleCaptions .carousel-inner,
+#carouselExampleCaptions .carousel-item {
+    height: 360px;
+    
+}
+
+#carouselExampleCaptions .carousel-caption {
+top: 70%;
+}
+
